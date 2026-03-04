@@ -18,7 +18,12 @@
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
-      # "vscodevim.vim"
+      "bradlc.vscode-tailwindcss",
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "antfu.vite",
+      "dsznajder.es7-react-js-snippets",
+      "lucide-icons.lucide"
     ];
 
     # Enable previews
